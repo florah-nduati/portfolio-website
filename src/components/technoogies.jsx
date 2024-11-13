@@ -77,14 +77,14 @@ function Technologies() {
           <p>An open-source ORM for Node.js and TypeScript, simplifying database access and management with a type-safe AP</p>
         </TechCard>
         <TechCard>
-          <BiLogoPostgresql  size={50} color="pink" />
+          <BiLogoPostgresql  size={50} color="blue" />
           <h3>postgresql</h3>
-          <p>A version control system for tracking changes in code.</p>
+          <p>An advanced open-source relational database management system (RDBMS) known for its strong SQL compliance, extensibility, and support for complex queries and data types.</p>
         </TechCard>
         <TechCard>
           <SiPostman size={50} color="red" />
           <h3>postman</h3>
-          <p>An advanced open-source relational database management system (RDBMS) known for its strong SQL compliance, extensibility, and support for complex queries and data typesy.</p>
+          <p>A popular API testing tool for sending requests, automating testing, and documenting APIs effectively.</p>
         </TechCard>
       </TechContainer>
     </StyledTechnologies>
