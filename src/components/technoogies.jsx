@@ -84,7 +84,7 @@ function Technologies() {
         <TechCard>
           <SiPostman size={50} color="red" />
           <h3>postman</h3>
-          <p>A popular API testing tool for sending requests, automating testing, and documenting APIs effectively.</p>
+          <p>An advanced open-source relational database management system (RDBMS) known for its strong SQL compliance, extensibility, and support for complex queries and data typesy.</p>
         </TechCard>
       </TechContainer>
     </StyledTechnologies>
