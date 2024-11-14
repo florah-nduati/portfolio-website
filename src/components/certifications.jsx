@@ -15,7 +15,7 @@ const Certifications = () => {
       name: 'Bachelor\'s Degree in Computer Science',
       issuer: 'Murang\'a University of Technology',
       date: 'November 2024',
-      image: image1, // Add the path to your image here
+       // Add the path to your image here
     },
     {
       name: 'Women in Digital Business',
@@ -27,13 +27,13 @@ const Certifications = () => {
         name: 'TEACH2GIVE software development bootcamp',
         issuer: 'the jitu company',
         date: 'November 2024',
-        image: image1, // Add the path to your image here
+      // Add the path to your image here
       },
       {
         name: 'IBM cloud computing',
         issuer: 'IBM',
         date: 'November 2024',
-        image: image1, // Add the path to your image here
+         // Add the path to your image here
       },
       {
         name: 'women in digital business ',
