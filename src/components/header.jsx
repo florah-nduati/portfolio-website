@@ -3,12 +3,12 @@ import { FaLightbulb } from "react-icons/fa";
 import { Link } from "react-scroll";
 import { StyledHeading, NavLinks, LogoLabel } from "./styled/Header.styled";
 
-const HeadingItems = ({ name, logo, label }) => {
+const HeadingItems = ({  logo, name, label }) => {
   return (
     <div>
       <LogoLabel>
+         {logo}
         <p>{name}</p>
-        {logo}
         <p>{label}</p>
       </LogoLabel>
       <NavLinks>
