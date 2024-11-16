@@ -2,7 +2,8 @@ import React from 'react';
 import image1 from '../assets/widb.jpeg';
 import image2 from '../assets/packet.jpeg';
 import image3 from '../assets/WIDB2.jpeg';
-import image4 from '../assets/ibm.jpeg'
+import image4 from '../assets/ibm.jpeg';
+import image5 from '../assets/comp.jpeg';
 
 const Certifications = () => {
   const certificates = [
@@ -16,7 +17,7 @@ const Certifications = () => {
       name: 'Bachelor\'s Degree in Computer Science',
       issuer: 'Murang\'a University of Technology',
       date: 'November 2024',
-       // Add the path to your image here
+      image: image5, // Add the path to your image here
     },
     {
       name: 'Women in Digital Business',
