@@ -4,6 +4,7 @@ import image2 from '../assets/packet.jpeg';
 import image3 from '../assets/WIDB2.jpeg';
 import image4 from '../assets/ibm.jpeg';
 import image5 from '../assets/comp.jpeg';
+import image6 from '../assets/the jitu cert.jpeg'
 
 const Certifications = () => {
   const certificates = [
@@ -29,6 +30,7 @@ const Certifications = () => {
         name: 'TEACH2GIVE software development bootcamp',
         issuer: 'the jitu company',
         date: 'November 2024',
+        image: image6,
       // Add the path to your image here
       },
       {

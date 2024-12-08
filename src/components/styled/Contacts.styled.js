@@ -48,12 +48,12 @@ export const StyledContact = styled.div`
 
   @media (max-width: 1200px) {
     h1 {
-      font-size: 2rem;
+      font-size: 1rem;
     }
 
     p {
       margin: 0 8rem;
-      font-size: 1rem;
+      font-size: 0.5rem;
     }
 
     .contact-link {
@@ -65,12 +65,12 @@ export const StyledContact = styled.div`
     padding: 4rem;
 
     h1 {
-      font-size: 2rem;
+      font-size: 1rem;
     }
 
     p {
       margin: 0 4rem;
-      font-size: 1.4rem;
+      font-size: 0.5rem;
     }
 
     .contact-links {
@@ -87,12 +87,12 @@ export const StyledContact = styled.div`
     padding: 3rem;
 
     h1 {
-      font-size: 2rem;
+      font-size: 1.5rem;
     }
 
     p {
-      margin: 0 2rem;
-      font-size: 1.5rem;
+      margin: 0 1rem;
+      font-size: 1rem;
     }
 
     .contact-link {
